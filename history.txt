@@ -1,0 +1,28 @@
+C:\Users\sa992\MLApp_salman>doskey/history
+mkdir MLApp_salman
+cd MLApp_salman
+git init
+ls
+git status
+git add
+git status
+git add .
+git status
+git commit -m "First commit"
+git status
+git commit -a -m "Updatedfile"
+git status
+git log
+git log -p
+git log -p -2
+git log -oneline --all --graph
+git log --oneline --all --graph
+git commit -a -m "second commit"
+git status
+git commit -a -m "Updatedfile".
+git add Dockerfile
+git commit -m "second commit"
+git add .
+git status
+git difftool --staged requirements.txt
+doskey/history

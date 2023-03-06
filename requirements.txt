@@ -1,5 +1,5 @@
 Numpy1.16.2
-pandas
+pandas2.62 #it is changed by Salman
 scikit_learn
 joblib
 sqlalchemy
