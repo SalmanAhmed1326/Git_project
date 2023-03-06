@@ -1,4 +1,4 @@
-numpy
+Numpy1.16.2
 pandas
 scikit_learn
 joblib
